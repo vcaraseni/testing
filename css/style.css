@@ -1,0 +1,22 @@
+body {
+    margin: 0 auto;
+    width: 900px;
+    padding: 10px 0;
+    background-color: #f6f9f8;
+    color: #6b7b7b;
+}
+
+.align {
+    text-align: center;
+}
+
+.avatar {
+    width: 300px;
+    height: auto;
+    border: 1px solid;
+    border-radius: 4px;
+}
+
+.about-me {
+    padding: 0 0 0 110px;
+}
